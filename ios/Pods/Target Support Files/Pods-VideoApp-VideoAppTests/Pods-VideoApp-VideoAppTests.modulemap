@@ -1,0 +1,6 @@
+module Pods_VideoApp_VideoAppTests {
+  umbrella header "Pods-VideoApp-VideoAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
